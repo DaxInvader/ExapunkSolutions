@@ -6,7 +6,7 @@ Obvious spoilers!
 
 Note that these might not be the most optimal solutions and that your approach might be different than mine.
 
-CURRENT SOLUTIONS
+# CURRENT SOLUTIONS
 
 Trash World News 1
 
