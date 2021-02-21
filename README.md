@@ -8,41 +8,41 @@ Note that these might not be the most optimal solutions and that your approach m
 
 CURRENT SOLUTIONS
 
-(1)Trash World News 1
+Trash World News 1
 
-(2)Trash World News 2
+Trash World News 2
 
-(3)Trash World News 3
+Trash World News 3
 
-(4)Trash World News 4.
+Trash World News 4.
 
-(5)Euclid's Pizza
+Euclid's Pizza
 
-(6)MITSUZEN HDI-10
+MITSUZEN HDI-10
 
-(7)Last Stop SNAXNET
+Last Stop SNAXNET
 
-(8)ZEBROS Copies
+ZEBROS Copies
 
-(9)SFCTA HIGHWAY SIGN #4902
+SFCTA HIGHWAY SIGN #4902
 
-(10)Unknown Network 1
+Unknown Network 1
 
-(11)UC Berkeley
+UC Berkeley
 
-(12)Workhouse
+Workhouse
 
-(13)Equity First Bank
+Equity First Bank
 
-(14)MITSUZEN HDI-10 - 2
+MITSUZEN HDI-10 - 2
 
-(15)Trash World News 5
+Trash World News 5
 
-(16)KGOG-TV
+KGOG-TV
 
-(17)TEC-REDSHIFT (tm)
+TEC-REDSHIFT (tm)
 
-(18)Digital Library Project
+Digital Library Project
 
 
 Happy coding!
