@@ -44,5 +44,17 @@ TEC-REDSHIFT (tm)
 
 Digital Library Project
 
+TEC EXA-BLASTER (tm) MODEM
+
+Emerson's Guide
+
+Valhalla
+
+MITSUZEN HDI-10 - 3
+
+working on a pretty solution for 23...
+
+Alliance Power and Light
+
 
 # Happy coding!
