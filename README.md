@@ -64,5 +64,6 @@ KGOG-TV-2
 
 Equity First Bank 2
 
+TEC EXA-BLASTER (tm) MODEM 2
 
 # Happy coding!
