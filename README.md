@@ -68,4 +68,5 @@ TEC EXA-BLASTER (tm) MODEM 2
 
 Last Stop SNAXNET 2
 
+MITSUZEN HDI-10 Optic
 # Happy coding!
